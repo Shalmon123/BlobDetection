@@ -8,7 +8,7 @@ The Python script and a few example images are included.
 
 Put the photo and the script in the same folder.
 
-Edit the line im = cv2.imread("blob.jpg", cv2.IMREAD_GRAYSCALE)
+Edit the line <im = cv2.imread("blob.jpg", cv2.IMREAD_GRAYSCALE)>
 
   replace "blob.jpg" to "NAME-OF-YOUR-IMAGE"
   
