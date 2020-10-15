@@ -2,6 +2,8 @@
 
 You need to have opencv installed on your Pc and added to the path variables (windows) and your terminal path (linux)
 
+(I'll work on a completely portable version that dosent need opencv to be installed beforehand to work, later)
+
 The Python script and a few example images are included.
 
 #INSTRUCTIONS 
